@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soumyadipta Banerjee</h1>
 <h3 align="center">A passionate Competitive Programmer from India</h3>
 
-- 🤝 I’m looking for help with **Systems Programming**
+- 🤝 I’m looking for help with **Open Source**
 
 - 💬 Ask me about **Competitive Programming**
 
